@@ -1,28 +1,30 @@
-<h1 align="center">Hey there 👋 I'm Hari</h1>
-<h3 align="center">AI Enthusiast | Full-Stack App Developer | Automation Explorer</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> 
+  Hey there, I'm Hari
+</h1>
+<h3 align="center">💡 AI & Data Science Engineer | 📱 Full-Stack App Developer | ⚙️ Automation Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&width=435&lines=Building+AI-powered+apps+with+React+%2B+.NET+Core;Deploying+projects+on+Azure+%26+GitHub;Crafting+solutions+with+code+%7C+Always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Building+AI-powered+apps+with+React+%2B+.NET+Core;Training+and+deploying+AI+models+%7C+Face+Recognition;Full-stack+projects+%7C+Indie+Developer+%7C+Always+Learning" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 A Little About Me
-- 💻 I build **AI-integrated applications** using technologies like **Python, .NET Core**, and **React Native**
-- 🧪 Currently experimenting with **custom AI models** and integrating them into real-world mobile apps
-- 🚀 I’m not working with a company at the moment, but I’m **actively learning, building, and publishing** my work independently
-- 📱 I have experience creating **end-to-end full stack apps**, including:
-  - Student portals
-  - Face recognition integrations
-  - Automation tools
-- 🌱 Always curious about how to make apps smarter, faster, and more intuitive
+### 👨‍💻 About Me
+- 🔍 Exploring the intersection of **AI, automation**, and **app development**
+- 🏢 Worked as a **Full Stack Developer** at **Quardhlann Technologies**, building scalable and intuitive school management systems using **React Native**, **ASP.NET Core**, and **SQL Server**
+- 🧠 Hands-on with integrating **Face Recognition SDKs** and building real-time event handling systems for security applications
+- 👨‍🔬 Independently building and full-stack projects to sharpen problem-solving and design thinking
+- 🧩 Strong interest in **Artifical Intelligence, smart systems, facial recognition**, and **user-centric designs**
+- 🔄 Always learning!
 
 ---
 
-### 🧰 Tech Stack
+### 🚀 Tech Stack
+
 ```yaml
-Languages:  Python, JavaScript, C#, SQL  
-Frontend:   React Native (Expo), HTML/CSS  
-Backend:    ASP.NET Core, REST APIs, Entity Framework  
-AI/ML:      Python (NumPy, Pandas, OpenCV, TensorFlow basics), FaceMe SDK  
-Tools:      Postman, Git, Visual Studio, VS Code, Azure, Firebase  
+Languages:   Python, JavaScript,TypeScript, C#, SQL  
+Frontend:    React Native (Expo), HTML/CSS  
+Backend:     ASP.NET Core, REST APIs, Entity Framework  
+AI & SDKs:   NumPy, Pandas, OpenCV, FaceMe SDK  
+Tools:       Git, Azure, Postman, Visual Studio, Firebase
